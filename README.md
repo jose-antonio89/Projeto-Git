@@ -10,3 +10,9 @@ Contínua.
 
 Aprender os conceitos básicos de Git e GitHub.
 
+## Integrantes
+- José Antônio
+- Luiz Gabriel
+- Cauã de Moraes
+- Vitor Perasoli
+
